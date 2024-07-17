@@ -2,7 +2,7 @@
 
 This Python script generates a KTV 1400D DRYAD Cipher Sheet, creating 25 rows of unique, randomly positioned letters (A-Y). Each row is prefixed with a header letter, consecutively from A-Z.
 
-The generated Cipher Sheet is saved to a CSV file in the current working directory. The filename is randomly generated using an MD5 timestamp to avoid conflicts when generating multiple sheets simultaneously.
+The generated Cipher Sheet is saved to a CSV file in the current working directory. The filename is randomly generated using an MD5 timestamp to avoid conflicts when generating multiple sheets.
 
 ## Features
 
