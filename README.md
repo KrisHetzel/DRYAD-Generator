@@ -42,7 +42,7 @@ Messages can be quickly encrypted, letter by letter, or number by number, using 
 5. Identify the letter directly to the RIGHT of your second ID Letter.
    - This is your SET Letter.
 6. Locate the row corresponding to the SET Letter on the Cipher Sheet.
-7. Encrypt your message by replacing each letter of the plaintext (Clear Text letters) with the corresponding letter from the SET Letter's Row.
+7. Encrypt your message by replacing each letter of the plaintext (Clear Text letters) with the corresponding letter from the SET Letter's Row and the top of the Cipher Sheet. 
 8. Communicate the ID Letters and the resulting ciphertext to the other individual.
 9. The other individual identifies the SET row using the ID Letters and decrypts the message accordingly.
 
