@@ -28,6 +28,13 @@ This ensures that you are communicating with the authentic party as they have au
 7. The other individual will then recite the letter directly BENEATH the second challenge letter.
 8. This response confirms the authenticity of the other individual.
 
+As an example, if one wanted to validate the identity of another who is calling them, using the above screenshot as an example:
+1. One states: "Authenticate Charlie Golf (CG)"
+2. Caller replies: " Authenticating Hotel (H)"
+
+Caller replies with the letter directly BENEATH C, G. (Row C, Letter G.)
+
+
 ## Using a DRYAD Cipher Sheet for Text Encryption
 
 ![cypher](https://github.com/user-attachments/assets/c4dd71f4-37c2-407e-a8c8-b07c817f2a5c)
